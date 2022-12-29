@@ -1,0 +1,13 @@
+{
+    "appTitle": "News",
+    "settings": "Settings",
+    "english": "English",
+    "arabic": "Arabic",
+    "categories" : "Categories",
+    "pick" : "Pick Your Category of interest",
+    "sports" : "Sports",
+    "health" : "Health",
+    "business" : "Business",
+    "general" : "General",
+    "science" : "Science"
+}

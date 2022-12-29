@@ -1,0 +1,13 @@
+{
+    "appTitle": "اخبار",
+    "settings": "الاعدادت",
+    "english":  "الانجليزيه",
+    "arabic":  "العربيه",
+    "categories" : "الاصناف",
+    "pick" : "اختر فئه اهتمامك",
+    "sports" : "رياضه",
+    "general" : "عامه",
+    "health" : "صحه",
+    "business" : "اقتصاد",
+    "science" : "علوم"
+}
